@@ -17,7 +17,7 @@ public class Calculadora {
 		return x*y;
 	}
 	
-	public static float dividir(int x, int y)
+	public static double dividir(int x, int y)
 	{
 		return x/y;
 	}
