@@ -17,7 +17,7 @@ public class CalculadoraTest extends TestCase {
 	}
 
 	public void testDividir() {
-		assertEquals(1.0, Calculadora.dividir(5, 5));
+		assertEquals(1.0f, Calculadora.dividir(5, 5));
 	}
 
 }
