@@ -19,6 +19,6 @@ public class Calculadora {
 	
 	public static float dividir(int x, int y)
 	{
-		return x*y;
+		return x/y;
 	}
 }
