@@ -20,4 +20,7 @@ public class CalculadoraTest extends TestCase {
 		assertEquals(1.0f, Calculadora.dividir(5, 5));
 	}
 
+	public void testResiduo() {
+		assertEquals(0, Calculadora.residuo(5, 5));
+	}
 }

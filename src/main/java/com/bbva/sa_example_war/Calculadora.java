@@ -21,4 +21,9 @@ public class Calculadora {
 	{
 		return x/y;
 	}
+	
+	public static int residuo(int x, int y)
+	{
+		return x*y;
+	}
 }
